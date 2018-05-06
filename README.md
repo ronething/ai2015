@@ -1,5 +1,19 @@
 # SCAU-人工智能实验2015
 
+notice
+
+如果出现ipynb文件打不开的情况
+
+![reload](./notices/reload.png)
+
+建议用[nbviewer](https://nbviewer.jupyter.org/)打开
+
+复制文件链接然后点击go即可
+
+![nbviewer](./notices/nbviewer.png)
+
+---
+
 华农人工智能实验-仅供参考
 
 - [实验一 最小二乘法](./exp1)
